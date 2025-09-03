@@ -8,6 +8,8 @@ Um aplicativo web simples e intuitivo para sortear amigos em brincadeiras de ami
 
 O **Amigo Secreto** é uma aplicação desenvolvida como parte do **Challenge da Alura em parceria com a Oracle ONE**, que permite aos usuários adicionar nomes de amigos em uma lista e realizar sorteios aleatórios de forma rápida e divertida. Ideal para festas, confraternizações e eventos entre amigos ou colegas de trabalho.
 
+![Animação](https://github.com/user-attachments/assets/ca3da8f8-7171-4cc4-957f-eddafdd704ab)
+
 ## ✨ Funcionalidades
 
 - ✅ **Adicionar Amigos**: Digite o nome dos participantes e adicione à lista
@@ -52,7 +54,9 @@ amigo-secreto/
 ├── app.js              # Lógica JavaScript
 ├── assets/             # Recursos visuais
 │   ├── amigo-secreto.png
-│   └── play_circle_outline.png
+│   ├── play_circle_outline.png
+│   ├── screenshot.png  # Screenshot da interface
+│   └── demo.gif        # GIF demonstrativo
 └── README.md           # Documentação
 ```
 
